@@ -1,0 +1,15 @@
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/obj/Debug/net7.0/NumberPatterns.csproj.AssemblyReference.cache
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/obj/Debug/net7.0/NumberPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/obj/Debug/net7.0/NumberPatterns.AssemblyInfoInputs.cache
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/obj/Debug/net7.0/NumberPatterns.AssemblyInfo.cs
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/obj/Debug/net7.0/NumberPatterns.csproj.CoreCompileInputs.cache
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/bin/Debug/net7.0/NumberPatterns
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/bin/Debug/net7.0/NumberPatterns.deps.json
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/bin/Debug/net7.0/NumberPatterns.runtimeconfig.json
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/bin/Debug/net7.0/NumberPatterns.dll
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/bin/Debug/net7.0/NumberPatterns.pdb
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/obj/Debug/net7.0/NumberPatterns.dll
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/obj/Debug/net7.0/refint/NumberPatterns.dll
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/obj/Debug/net7.0/NumberPatterns.pdb
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/obj/Debug/net7.0/NumberPatterns.genruntimeconfig.cache
+/Users/graceelizabethmorgan-maxwell/Projects/NumberPatterns/NumberPatterns/obj/Debug/net7.0/ref/NumberPatterns.dll
